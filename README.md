@@ -96,12 +96,12 @@
   </a> &nbsp;&nbsp;
   
   <a href="https://profile-summary-for-github.herokuapp.com/user/ElizabethCarinaLavillaPillco" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+    <img align="center" alt="ElizabethLavilla | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
 
 <div align="center">
-  😶‍🌫️: Gracias por ver mi perfil, ten un buen día :D :wink: <br/>
+  😶‍🌫️ Gracias por ver mi perfil, ten un buen día :D :wink: <br/>
   &copy; 2025 Elizabeth Carina Lavilla Pillco - PE
 </div>
 

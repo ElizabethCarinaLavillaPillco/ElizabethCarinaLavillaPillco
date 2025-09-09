@@ -5,7 +5,7 @@
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Acerca de mi
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="30px"></img> Acerca de mi
 
 - :credit_card: Mi nombre es: **Elizabeth Carina Lavilla Pillco** <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3p1MDBhdDJjdTlkZmNrZzUzcmV6MnBqcnZhbGMxd2ppdGc4ZHppYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nQDKSeRlIyfmw/giphy.gif" width="400" align="right"/>
 - :sweat_smile: Desarrolladora web/móvil.

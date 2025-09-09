@@ -1,17 +1,17 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/ElizabethCarinaLavillaPillco?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ElizabethCarinaLavillaPillco?style=social" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%D8B4FE&size=50&center=true&vCenter=true&height=60&width=600&lines=Bienvenid@+a+mi+perfil!;este+es+mi+repo!!!;Asi+que+date+una+pasadita;" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%D8B4FE&size=50&center=true&vCenter=true&height=60&width=600&lines=Bienvenid@+a+mi+perfil;xd;" alt="Title"></img>
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="30px"></img> Acerca de mi
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"></img> Acerca de mi
 
-- :credit_card: Mi nombre es: **Elizabeth Carina Lavilla Pillco** <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3p1MDBhdDJjdTlkZmNrZzUzcmV6MnBqcnZhbGMxd2ppdGc4ZHppYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nQDKSeRlIyfmw/giphy.gif" width="400" align="right"/>
-- :sweat_smile: Desarrolladora web/móvil.
+- :credit_card: Mi nombre es: **Elizabeth Lavilla** <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3p1MDBhdDJjdTlkZmNrZzUzcmV6MnBqcnZhbGMxd2ppdGc4ZHppYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nQDKSeRlIyfmw/giphy.gif" width="300" align="right"/>
+- :sweat_smile: Desarrollo web/móvil.
 - :fire: Java y C
 - :monocle_face: Programación y animes 🤙
-  
+- :boom: Redes
 
 
 ## 🛠 &nbsp;Técnologias que uso
@@ -61,9 +61,9 @@
 ![Blender](https://img.shields.io/badge/blender-%23FF6C37.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 #### 💻 Hackatones y eventos
-- :rocket: *NASA INTERNATIONAL SPACE APPS CHALLENGE* [https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/4047/?tab=details]
+- :rocket: [NASA INTERNATIONAL SPACE APPS CHALLENGE](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/4047/?tab=details)
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> Algunas estadisticas
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> Estadisticas
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElizabethCarinaLavillaPillco&layout=compact&show_icon=true&theme=algolia" alt="ElizabethCarinaLavillaPillco-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ElizabethCarinaLavillaPillco&layout=compact&show_icon=true&theme=algolia" alt="ElizabethCarinaLavillaPillco-stats"/>
@@ -73,7 +73,7 @@
   
 </div>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Para más información, contáctame por:
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Contactoss a:
 <p align="center">
   <a href="mailto:elizabeth.carina.elizabethcarina21@gmail.com" >
     <img align="center" alt="ElizabethLavilla | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
@@ -97,8 +97,7 @@
 <p> 
 
 <div align="center">
-  😶‍🌫️ Gracias por ver mi perfil, ten un buen día :D :wink: <br/>
-  &copy; 2025 Elizabeth Carina Lavilla Pillco - PE
+  Tenga un buen dia 🤙
 </div>
 
 ------

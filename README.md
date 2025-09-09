@@ -8,11 +8,9 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Acerca de mi
 
 - :credit_card: Mi nombre es: **Elizabeth Carina Lavilla Pillco** <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3p1MDBhdDJjdTlkZmNrZzUzcmV6MnBqcnZhbGMxd2ppdGc4ZHppYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nQDKSeRlIyfmw/giphy.gif" width="400" align="right"/>
-- :sweat_smile: Soy desarrolladora web/móvil jr.
-- :fire: Mis lenguajes favoritos de programación son Java y C
-- :monocle_face: Me gusta la programación, desarrollo UX/UI, y ver animes
-- :sunglasses: ***⏳ Falling behind isn’t an option — not when progress feels like purpose.*** 
-- :ok_hand: Fun fact: the animation resets my mind :sparkler: family fills my soul, :pray: ambition keeps me going :point_right: — but rest? That’s non-negotiable.
+- :sweat_smile: Desarrolladora web/móvil.
+- :fire: Java y C
+- :monocle_face: Programación y animes 🤙
   
 
 

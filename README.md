@@ -40,6 +40,11 @@
 #### 📚 Librerias
 
 [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)](https://skillicons.dev)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+
 
 #### 🔧 Herramientas
 
@@ -57,19 +62,9 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-CC2927?style=for-the-badge&logo=sqlite&logoColor=white) 
+![MySql](https://img.shields.io/badge/MySql-%23FF6C37?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Unity](https://img.shields.io/badge/unity-%23323330.svg?style=for-the-badge&logo=unity&logoColor=F7DF1E)
 ![Blender](https://img.shields.io/badge/blender-%23FF6C37.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-#### 💻 Hackatones y eventos
-- :rocket: [NASA INTERNATIONAL SPACE APPS CHALLENGE](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/4047/?tab=details)
-
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> Estadisticas
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElizabethCarinaLavillaPillco&layout=compact&show_icon=true&theme=algolia" alt="ElizabethCarinaLavillaPillco-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ElizabethCarinaLavillaPillco&layout=compact&show_icon=true&theme=algolia" alt="ElizabethCarinaLavillaPillco-stats"/>
-
-</div>
-<div align="center">
   
 </div>
 
